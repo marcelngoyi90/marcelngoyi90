@@ -21,7 +21,7 @@ Final-year AI Engineering student at Cyprus International University, building a
 - 📱 Building native iOS apps with **SwiftUI**, **UIKit**, and **CoreML**
 - 🧠 Working on deep learning, NLP, and forecasting models — from CNNs to transformer-based classifiers
 - 🚀 Currently leading **LLM Orchestration** on my capstone project: a Telegram-based AI personal assistant with multi-layer memory
-- 🌍 Originally from Lubumbashi, exploring graduate programs in Germany and Canada
+- 🌍 Originally from Lubumbashi
 - 🏀 When I'm not coding: basketball, athletic training, and the occasional GTA Online session
 
 ---
