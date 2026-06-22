@@ -43,7 +43,6 @@ I lead LLM Orchestration, designing how the assistant routes, remembers, and rea
 | **[Spam Email Classifier](#)** | NLP pipeline for binary spam/ham classification | Python, scikit-learn, NLTK |
 | **[Movie Recommender System](#)** | Recommendation engine based on collaborative/content-based filtering | Python, Pandas, scikit-learn |
 
-> 🔗 Replace the `#` links above with your actual repo URLs.
 
 ---
 
